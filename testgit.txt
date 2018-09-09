@@ -10,3 +10,7 @@ Git is free software distributed under the GPL.
 
 21212321312312324324353245435
 231rferrrrrrrrrrrrrrrrrrrrrrrrrrr
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
